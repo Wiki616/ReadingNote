@@ -1,4 +1,5 @@
-# ReadingNote
-ReadingNote读书笔记
+# Reinforce
+
+Reinforce——魔法少女奈叶中八神疾风的人格型融合型魔导器，可以认为是夜天之书的管理程序，希望这个repo也能像夜天之书一样，收集各种各样“奇怪”的知识
 
 Wiki_ki@163.com
