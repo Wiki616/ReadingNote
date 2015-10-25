@@ -36,3 +36,27 @@
         1）性能
         2）并发和面向对象编程
         3）类型安全
+    
+## 续第二章 ruby
+    1.我个人用的2.2.3，linux和windows都很好装，JetBrains有一款IDE RubyMine，跟phpstorm和pycharm一个风格
+    2.2.2.7习题：
+        1）Ruby API 文档：http://ruby-doc.org/core-2.2.3/
+        2）Programming Ruby：http://ruby-doc.com/docs/ProgrammingRuby/（英），http://vdisk.weibo.com/s/aSSvdjXJj4zY（中）
+        3）替换字符串某一部分方法：
+            #1 直接替换str['xxxx'] = 'yyyyyy'
+            #2 gsub or gsub！：http://ruby-doc.org/core-2.2.3/String.html#method-i-gsub
+            #3 replace：http://ruby-doc.org/core-2.2.3/String.html#method-i-replace
+        4）Ruby正则表达式：
+            http://www.cnblogs.com/cnblogsfans/archive/2009/02/02/1382745.html
+            http://www.cnblogs.com/cnblogsfans/archive/2009/02/03/1383505.html
+        5）Ruby Range：
+            http://ruby-doc.org/core-1.9.3/Range.html
+            http://www.runoob.com/ruby/ruby-range.html
+        6）puts “Hello World！”
+        7）puts “Hello World！”
+        8）name = “wiki”
+           10.times {puts name}
+        9）x = 1
+           puts "This is sentence number #{x}." , x = x + 1 while x <= 10
+        10）用9）的代码测试
+        11）见: https://github.com/Wiki616/Reinforce/blob/master/Computer%20Science/7-week-7-language-code/Ruby/GuessNumber.rb
