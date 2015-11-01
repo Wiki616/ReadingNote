@@ -64,3 +64,19 @@
         1）打印数组内容：https://github.com/Wiki616/Reinforce/blob/master/Computer%20Science/7-week-7-language-code/Ruby/arrayPrint.rb
         2）接口友好的树类Tree：https://github.com/Wiki616/Reinforce/blob/master/Computer%20Science/7-week-7-language-code/Ruby/Tree.rb
         3）简单的grep程序（找出文件中带有某个词组的行全部打印）：https://github.com/Wiki616/Reinforce/blob/master/Computer%20Science/7-week-7-language-code/Ruby/grep.rb
+
+## 第三章 Io
+    1.Steve设计Io语言的初衷：C/C++语言语法和语义规则过于复杂，于是做Io尽量简化语法和语义规则
+    2.原型语言
+        1）所有事物都是对象
+        2）所有与对象交互都是消息
+        3）不需要实例化类，而是复制原型对象
+        4）对象会记住其原型
+        5）对象有槽（类似key=>value）
+        6）槽包含对象，方法
+        7）消息返回槽中值或调用方法
+        8）如果对象无法响应某消息，则它会把该消息发送给自己的原型
+    3.单例的实现：变更clone方法
+    4.编程习惯：
+        1）大写字母开头的对象是type，类型的复制品小写
+        
