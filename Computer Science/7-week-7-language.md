@@ -60,3 +60,7 @@
            puts "This is sentence number #{x}." , x = x + 1 while x <= 10
         10）用9）的代码测试
         11）见: https://github.com/Wiki616/Reinforce/blob/master/Computer%20Science/7-week-7-language-code/Ruby/GuessNumber.rb
+    3.2.3.9习题
+        1）打印数组内容：https://github.com/Wiki616/Reinforce/blob/master/Computer%20Science/7-week-7-language-code/Ruby/arrayPrint.rb
+        2）接口友好的树类Tree：https://github.com/Wiki616/Reinforce/blob/master/Computer%20Science/7-week-7-language-code/Ruby/Tree.rb
+        3）简单的grep程序（找出文件中带有某个词组的行全部打印）：https://github.com/Wiki616/Reinforce/blob/master/Computer%20Science/7-week-7-language-code/Ruby/grep.rb
